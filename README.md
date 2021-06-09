@@ -1,5 +1,5 @@
 # Expenses_tracker_react
-An app for tracking user expenses
+An app for tracking user expenses based on a video tutorial
 This project was bootstrapped with Create React App.
 
 Setup Instructions
